@@ -34,7 +34,8 @@ If you leave your browser on constantly:
 
 * APIJobRequestUserStats
 ![image here shows the first concern I had](https://github.com/CHarris-VR/steam-gameclose-failure/blob/main/refs/ref2-CAPI.png "CAPI Failure")
-* GameOverlay: started... 
+* GameOverlay: started...
+   
 ![image here shows the first concern I had](https://github.com/CHarris-VR/steam-gameclose-failure/blob/main/refs/ref3-gameoverlay.png "CAPI Failure")
 
 <p> Seeming to get hung up and not completing something.
