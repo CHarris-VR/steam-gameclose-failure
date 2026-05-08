@@ -12,7 +12,23 @@
 <p>Working on solving the issue starts now, will use pictures to try and figure out the issue.</p>
 
 ## Soulition
-<p>This is a place older section until the fix is found.</p>
+### Problem Solved 5/8/2026 5:30 PM EST:
+<p> Quick notes:</p>
+
+* Steam showing game open and 'green name' even though game is closed.
+* No processes showing that anything is wrong.
+* Process hang up for APIJobRequestUserStats and GameOverlay: started...
+* Tried to Delete GameOverlayRenderer64.dll and logs...
+  * Was unable to do so for some reason
+  * Figured it was out it was related to a internet browser issue
+  * Stopped process on the broswer and was able to re update Steam Client
+
+
+### Additional Notes:
+<p>Apparently, Steam WebHelper Client, if it gets hung up does not inform you that this is happening. While trying to close VRChat, the process wouldn't completed leaving it hung while giving no proper information that was happening. Without having to clean install steam and remove all programs, I was able to fix the issue by searcing for keywords within specific processes that were completing and figuring out this information.</p>
+<p>If you leave your browser on constantly ***You may have issues with games not closing on steam due to webclienthelper not resolving correctly***</p>
+
+![image here shows fianlly able to delete the file](https://github.com/CHarris-VR/steam-gameclose-failure/blob/main/refs/ref5-normal.png "Deleted GOR finally")
 
 ## Found Concerns:
 
