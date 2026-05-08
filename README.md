@@ -2,6 +2,8 @@
 
 ## Soulition
 ### Problem Solved 5/8/2026 5:30 PM EST:
+
+![Bingo...](https://github.com/CHarris-VR/steam-gameclose-failure/blob/main/refs/ref1-firstfail.png "Normal Logs it seems")
 <p> Quick notes:
 
 * Steam showing game open and 'green name' even though game is closed.
