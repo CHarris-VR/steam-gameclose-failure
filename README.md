@@ -14,8 +14,8 @@
 
 ### How Problem was Resolved:
 * Deleteing everything Except steam.exe and steamapps folders:
- * Additional Issue located: Unable to delete all files even though they're not listed as in use.
- * Discovered Google Chrome hang up issue hidden process for Steam WebClientHelper
+  * Additional Issue located: Unable to delete all files even though they're not listed as in use.
+  * Discovered Google Chrome hang up issue hidden process for Steam WebClientHelper
 
 ### Additional Notes:
 <p>Apparently, Steam WebHelper Client, if it gets hung up does not inform you that this is happening. While trying to close VRChat, the process wouldn't completed leaving it hung while giving no proper information that was happening. Without having to clean install steam and remove all programs, I was able to fix the issue by searcing for keywords within specific processes that were completing and figuring out this information.
