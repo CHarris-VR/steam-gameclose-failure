@@ -56,4 +56,4 @@ No error codes generated either.</p>
 <p> Deleteing everything Except steam.exe and steamapps folders:</p>
 
 * Additional Issue located: Unable to delete all files even though they're not listed as in use.
-⋅⋅⋅⋅* Discovered Google Chrome hang up issue hidden process for Steam WebClientHelper
+   * Discovered Google Chrome hang up issue hidden process for Steam WebClientHelper
