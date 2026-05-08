@@ -5,7 +5,6 @@
 
 <p>Known issues as of right now I can organize into a list:</p>
 
-
 * Unable to close games without closing Steam.
 * Games still displayed as "Playing" but not closing.
 * Only happening for VRChat
@@ -41,3 +40,8 @@ No error codes generated either.</p>
 <p> Decided to check google for the Steam gameoverlayui64.exe failure and will be testing out some of the options listed here: </p>
 
 > Fixes for the gameoverlayui64.exe error in Steam, which usually causes the overlay to fail or crash, often involve restarting Steam, updating drivers, or repairing Steam files. Common solutions include running Steam as an administrator, disabling third-party overlay software (like Discord or RivaTuner), or refreshing Steam files by deleting everything except steam.exe and the steamapps folder.
+
+### 5/8/2026 4:45 PM EST
+<p> Running Steam as Admin:
+
+* Failures presist with same issue.
