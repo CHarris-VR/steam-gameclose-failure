@@ -5,9 +5,7 @@
 
 <p>Known issues as of right now I can organize into a list:</p>
 
-<p>
+
 * Unable to close games without closing Steam.
 * Games still displayed as "Playing" but not closing.
 * Only happening for VRChat
-
-</p>
