@@ -1,0 +1,1 @@
+# steam-gameclose-failure
