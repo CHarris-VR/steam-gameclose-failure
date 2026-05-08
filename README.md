@@ -30,4 +30,14 @@
 ## Theories
 
 ### 5/8/2026 4:12 PM EST
-<p> I believe there is a proecss getting hung up that I can't seem to lock down on how or why it's getting hung up, will do some further investigation. 
+<p> I believe there is a proecss getting hung up that I can't seem to lock down on how or why it's getting hung up, will do some further investigation.</p>
+
+### 5/8/2026 4:31 PM EST
+<p> After opening steam's console by utilizing steam://open/console and seeing the printouts,
+I was able to see that 'GameOverlay ...gameoverlayui64.exe' failed to 'post' it seems leaving Steam
+in a constant feedback loop of trying ot figure out what's going on and eventially just hanging.
+No error codes generated either.</p>
+
+<p> Decided to check google for the Steam gameoverlayui64.exe failure and will be testing out some of the options listed here: </p>
+
+> Fixes for the gameoverlayui64.exe error in Steam, which usually causes the overlay to fail or crash, often involve restarting Steam, updating drivers, or repairing Steam files. Common solutions include running Steam as an administrator, disabling third-party overlay software (like Discord or RivaTuner), or refreshing Steam files by deleting everything except steam.exe and the steamapps folder.
