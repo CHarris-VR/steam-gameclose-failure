@@ -26,7 +26,9 @@
 
 ### Additional Notes:
 <p>Apparently, Steam WebHelper Client, if it gets hung up does not inform you that this is happening. While trying to close VRChat, the process wouldn't completed leaving it hung while giving no proper information that was happening. Without having to clean install steam and remove all programs, I was able to fix the issue by searcing for keywords within specific processes that were completing and figuring out this information.</p>
-<p>If you leave your browser on constantly ***You may have issues with games not closing on steam due to webclienthelper not resolving correctly***</p>
+If you leave your browser on constantly:
+
+**You may have issues with games not closing on steam due to webclienthelper not resolving correctly.**
 
 ![image here shows fianlly able to delete the file](https://github.com/CHarris-VR/steam-gameclose-failure/blob/main/refs/ref5-normal.png "Deleted GOR finally")
 
