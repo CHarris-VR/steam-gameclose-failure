@@ -26,6 +26,12 @@
 
 <p> Seeming to get hung up and not completing something.</p>
 
+### 5/8/2026 5:07 PM EST
+<p> Found an issue where GameOverlayRender64.dll was still running in the background of GoogleChrome and wasn't able to be deleted from the steam folder when attempting to delete everything from the steam folder</p>
+
+![image here shows fianlly able to delete the file](https://github.com/CHarris-VR/steam-gameclose-failure/blob/main/refs/ref4-gameoverlayGChrome.png "Deleted GOR finally")
+
+
 ## Theories
 
 ### 5/8/2026 4:12 PM EST
@@ -45,3 +51,7 @@ No error codes generated either.</p>
 <p> Running Steam as Admin:
 
 * Failures presist with same issue. 
+
+### 5/8/2026 4:55 PM EST
+<p> Deleteing everything Except steam.exe and steamapps folders:</p>
+
